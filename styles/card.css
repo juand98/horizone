@@ -1,0 +1,11 @@
+.info_container {
+  width: 135px;
+  height: 135px;
+  max-width: 135px;
+  margin: 15px auto;
+  /* padding: 15px; */
+  background-color: #282623;
+  border-radius: 5px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.16);
+  /* border: 1px solid white; */
+}

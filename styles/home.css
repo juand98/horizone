@@ -1,0 +1,38 @@
+/*1. Posicionamiento
+2. Modelo de caja 
+3.Tipografia
+4. Visuales
+*/
+
+.body_container {
+  width: 100%;
+  min-width: 320px;
+  height: auto;
+  padding-top: 2.5rem;
+  padding-bottom: 70px;
+  background-color: #201e1c;
+  color: #ffffff;
+}
+
+.body_container p {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.8rem;
+  text-align: center;
+  color: #ffffff;
+}
+
+.body_container .cards_container {
+  width: 100%;
+  min-width: 320px;
+  max-width: 500px;
+  margin: 0 auto;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 1rem;
+  /* border: 1px solid white; */
+}
